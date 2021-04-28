@@ -2,3 +2,6 @@ testando blablabla URGENTE
 -Letters and Social Aims. Quotation and Originality. Ralph Waldo Emerson.
 It isn’t what we say or think that defines us, but what we do.
 colocando informacao no branch sem conflito
+
+
+TESTANDO STASH 1
